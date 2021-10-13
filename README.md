@@ -28,6 +28,9 @@
 
 ## ➕ Plugins
 ## 🐙 Animaciones
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [Greensock](http://greensock.com/)
+
 ## 📄 Slideshow
 ## 🖥 Online services
 ## 🛠 Utilities
